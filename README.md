@@ -1,5 +1,6 @@
-<<<<<<< Updated upstream
+
 Change for git stash
 =======
 Change in local repository
->>>>>>> Stashed changes
+
+Add change Oksi's
